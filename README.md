@@ -24,10 +24,17 @@ Some I use, some to keep in mind.
 ### Local AI
 - LMStudio
 - AnythingLLM
+- Ollama
+
+
 ### AI miscs
 - Perplexity
-- Open AI
+- Open AI (Chat GPT)
 - Mistral
+- Anthropic (Claude)
+- Grok
+- Copilot (Microsoft)
+- Gemini (Google)
 
 
 
