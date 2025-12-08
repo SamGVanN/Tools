@@ -12,6 +12,12 @@ Some I use, some to keep in mind.
 - HWMonitor
 - CPU-Z
 - FPS Monitor
+- TreeSize
+- FolderSizes 9
+
+## Virtualization
+- Oracle VM VirtualBox
+- VMware Workstation
 
 ## Development
 > Clearly not everything is mentioned here 
