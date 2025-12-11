@@ -26,6 +26,31 @@ Some I use, some to keep in mind.
 - Fork
 - Docker
 
+
+## DevOps / Infrastructure
+
+### Infrastructure as Code (IaC)
+- Ansible
+- Terraform
+
+### Containers & Orchestration
+- Docker Engine
+- Docker Compose
+- Kubernetes
+
+### CI/CD & Code Quality
+- CircleCI
+- SonarQube
+
+### Observability (DevOps-oriented)
+- Grafana
+- Prometheus
+- ELK Stack
+  - Logstash
+  - Elasticsearch
+  - Kibana
+
+  
 ## AI
 ### Local AI
 - LMStudio
@@ -43,12 +68,16 @@ Some I use, some to keep in mind.
 - Gemini (Google)
 
 
+---
+
 
 ## Editing Image/Video/Modelization
 - Gimp
 - DaVinci Resolve
 - Blender
 
+
+---
 
 
 ## Music and mix
@@ -60,6 +89,9 @@ Some I use, some to keep in mind.
 - MuseScore Studio : https://musescore.org/fr
 ### Guitar plugins
 - STL Ignite - Emissary Plug-In Bundle
+
+
+---
 
 
 ## Outdoors
