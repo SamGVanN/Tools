@@ -8,12 +8,20 @@ Some I use, some to keep in mind.
 
 
 ## Monitoring
+
+### PC
 - HWinfo64
 - HWMonitor
 - CPU-Z
 - FPS Monitor
 - TreeSize
 - FolderSizes 9
+- FolderSizes 9
+  
+### Server
+- Beszel (Hub + Agents)
+- Ncdu
+- Scrutiny
 
 ## Virtualization
 - Oracle VM VirtualBox
@@ -37,6 +45,7 @@ Some I use, some to keep in mind.
 - Docker Engine
 - Docker Compose
 - Kubernetes
+- Portainer
 
 ### CI/CD & Code Quality
 - CircleCI
@@ -75,6 +84,7 @@ Some I use, some to keep in mind.
 - Gimp
 - DaVinci Resolve
 - Blender
+- Kdenlive
 
 
 ---
@@ -94,8 +104,9 @@ Some I use, some to keep in mind.
 ---
 
 
-## Outdoors
+## Sport & Outdoors
 - Komoot
+- Strava
 
 
 ## Other
