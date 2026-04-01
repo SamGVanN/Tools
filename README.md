@@ -110,6 +110,7 @@ Some I use, some to keep in mind.
 
 
 ## Other
-
-### Reading
 - Z-Library
+- Calibre
+- Obsidian
+- Zotero
